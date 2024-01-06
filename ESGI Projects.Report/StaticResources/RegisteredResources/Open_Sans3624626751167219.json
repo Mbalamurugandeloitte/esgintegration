@@ -1,0 +1,27 @@
+{
+  "name": "Open Sans",
+  "textClasses": {
+    "label": {
+      "fontFace": "Open Sans"
+    },
+    "callout": {
+      "fontFace": "Open Sans"
+    },
+    "title": {
+      "fontFace": "Open Sans"
+    },
+    "header": {
+      "fontFace": "Open Sans"
+    }
+  },
+  "dataColors": [
+    "#62B5E5",
+    "#005587",
+    "#FFE67F",
+    "#EC7016",
+    "#992165",
+    "#DCECC9",
+    "#CFBC98",
+    "#6E9368"
+  ]
+}
